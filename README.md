@@ -29,8 +29,6 @@
 
 # Examples
 
-![Sample 1](_.png)
-![Sample 2](_.png)
-![Sample 3](_.png)
-![Sample 4](_.png)
+![Preview Image 1](https://user-images.githubusercontent.com/85860484/122520485-9cb3fd00-d04e-11eb-98d3-f6db10d9e480.jpg)
+![Preview Image 2](https://user-images.githubusercontent.com/85860484/122520517-a76e9200-d04e-11eb-9fb7-b092d0acedc4.jpg)
  
